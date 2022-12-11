@@ -27,9 +27,19 @@ ________________________________________
 # Задание 3.
 Установите и запустите haproxy.
 Приведите скриншот systemctl status haproxy, где будет видно, что haproxy запущен
-![alt text](https://github.com/filipp761/10.5-.-HAProxy-Nginx./blob/main/img/nginx.jpg)
+![alt text](https://github.com/filipp761/10.5-.-HAProxy-Nginx./blob/main/img/haproxy.jpg)
 
 # Задание 4.
 Установите и запустите nginx.
 Приведите скриншот systemctl status nginx, где будет видно, что nginx запущен
+![alt text](https://github.com/filipp761/10.5-.-HAProxy-Nginx./blob/main/img/nginx.jpg)
 
+# Задание 5.
+Настройте nginx на виртуальной машине таким образом, чтобы при запросе:
+```curl http://localhost:8088/ping```
+он возвращал в ответе строчку:
+```"nginx is configured correctly"```
+Приведите скриншот получившейся конфигурации
+
+![alt text](https://github.com/filipp761/10.5-.-HAProxy-Nginx./blob/main/img/config.jpg)
+![alt text](https://github.com/filipp761/10.5-.-HAProxy-Nginx./blob/main/img/nginxCURL.png)
