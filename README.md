@@ -41,5 +41,5 @@ ________________________________________
 ```"nginx is configured correctly"```
 Приведите скриншот получившейся конфигурации
 
-![alt text](https://github.com/filipp761/10.5-.-HAProxy-Nginx./blob/main/img/config.jpg)
+![alt text](https://github.com/filipp761/10.5-.-HAProxy-Nginx./blob/main/img/config.png)
 ![alt text](https://github.com/filipp761/10.5-.-HAProxy-Nginx./blob/main/img/nginxCURL.png)
