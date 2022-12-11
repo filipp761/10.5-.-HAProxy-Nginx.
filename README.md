@@ -27,6 +27,7 @@ ________________________________________
 # Задание 3.
 Установите и запустите haproxy.
 Приведите скриншот systemctl status haproxy, где будет видно, что haproxy запущен
+![alt text](https://github.com/filipp761/10.5-.-HAProxy-Nginx./blob/main/img/nginx.jpg)
 
 # Задание 4.
 Установите и запустите nginx.
